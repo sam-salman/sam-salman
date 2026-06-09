@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Orchestrating Agentic Workflows, Real-time Speech/Vision Pipelines, and National-Scale Enterprise Software.</em>
+  <em>Orchestrating Agentic Workflows, Real-time Speech/Vision Pipelines, Robotics, and National-Scale Enterprise Software.</em>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## Executive Profile
 
-I am a builder specializing in high-complexity systems at the intersection of AI orchestration, WebRTC communication, and multi-tenant cloud architectures. As the Chief Technology Officer (CTO) of Ashtra, I direct the technical division and oversee the development of enterprise-grade SaaS platforms, retail POS solutions, and automated booking networks. My background includes building national GovTech solutions for the National Information Technology Board (NITB) and founding Symilars, a full-service software house and product agency.
+I am a builder specializing in high-complexity systems at the intersection of AI orchestration, WebRTC communication, robotics engineering, and multi-tenant cloud architectures. As the Chief Technology Officer (CTO) of Ashtra, I direct the technical division and oversee the development of enterprise-grade SaaS platforms, retail POS solutions, and automated booking networks. My background includes building national GovTech solutions for the National Information Technology Board (NITB) and founding Symilars, a full-service software house, product agency, and hardware development lab.
 
 ---
 
@@ -40,9 +40,10 @@ I am a builder specializing in high-complexity systems at the intersection of AI
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Kotlin, Java, PHP, Go, Bash, SQL |
+| **Languages** | Python, TypeScript, JavaScript, Kotlin, Java, PHP, Go, Bash, SQL, C, C++ |
 | **AI & Agentic Frameworks** | PyTorch, TensorFlow, CrewAI, LangGraph, LangChain, LlamaIndex, Hugging Face, OpenCV |
-| **Backend & Systems** | Node.js, NestJS, Django, FastAPI, Laravel, Express, PostgreSQL, Redis, Docker, WebRTC, SIP |
+| **Robotics & Hardware** | ROS, ROS 2, Arduino, FreeRTOS/RTOS, Microcontrollers (STM32/ESP32), Pixhawk, Telemetry (SIP/WebRTC) |
+| **Backend & Systems** | Node.js, NestJS, Django, FastAPI, Laravel, Express, PostgreSQL, Redis, Docker |
 | **Frontend & Mobile** | React, Next.js, Flutter, React Native, Tailwind CSS, HTML5/CSS3 |
 | **DevOps & Cloud** | AWS (EC2/S3/RDS), GitHub Actions, Linux Systems, CI/CD, Serverless (Neon/Vercel) |
 
@@ -57,10 +58,10 @@ Ashtra builds enterprise-grade AI automation, POS, and CRM scheduling ecosystems
 * **Stack:** Next.js 15, NestJS, TypeScript, PostgreSQL, Drizzle ORM, WebSockets, LLM Agentic Workflows.
 
 ### **Symilars** (symilars.com) — Founder & Lead Architect
-Symilars is a full-service software house and digital product agency delivering high-performance mobile, web, and AI systems for global clients.
-* **Agency Focus:** Leading project consultation, architecture design, and end-to-end delivery of custom client applications, SaaS portals, and utility platforms.
+Symilars is a full-service software house, digital product agency, and hardware prototyping lab delivering high-performance mobile, web, AI, and autonomous robotic systems for global clients.
+* **Agency Focus:** Leading project consultation, architecture design, and end-to-end delivery of custom client applications, SaaS portals, autonomous firmware, and utility platforms.
 * **Team Leadership:** Managing developers and designers, establishing agile delivery workflows, and scaling customer-facing products.
-* **Stack:** Flutter, React Native, Node.js, Python, PostgreSQL, SQLite, Firebase, AWS.
+* **Stack:** Flutter, React Native, Node.js, Python, PostgreSQL, SQLite, ROS/ROS 2, FreeRTOS, Arduino, C/C++.
 
 ---
 
@@ -76,27 +77,42 @@ Symilars is a full-service software house and digital product agency delivering 
 * **Architecture & Stack:** React, FastAPI, PostgreSQL, LangChain, Hugging Face Embeddings.
 * **Impact:** Implemented psychometric profiling algorithms deployed by the National Information Technology Board (Gov of Pakistan).
 
-### 3. GreenSteps: Smart Plantation Tracking & Green Marketplace
+### 3. Autonomous Agricultural Drone System (Pakistan)
+* **Overview:** Engineered custom agricultural drones designed for precision crop spraying and autonomous farm survey automation in Pakistan.
+* **Architecture & Stack:** ROS, Arduino, Pixhawk, STM32, C++, FreeRTOS, telemetry modules.
+* **Impact:** Reduced pesticide wastage and optimized topographical surveys for local farmers.
+
+### 4. Multi-Purpose Autonomous Drone Platform (Active R&D)
+* **Overview:** Developing a multi-mission drone with real-time video streaming, obstacle avoidance, and computer vision payload release.
+* **Architecture & Stack:** ROS 2, Raspberry Pi, C++, OpenCV, WebRTC, custom control loops.
+* **Impact:** Enabling custom telemetry streaming and autonomous waypoint navigation on an integrated hardware chassis.
+
+### 5. Custom 3D Printer Design & Construction
+* **Overview:** Designed and built customized high-precision 3D printers for fabrication of specialized structural and mechanical components.
+* **Architecture & Stack:** Marlin firmware, Arduino Mega/RAMPS, custom mechanical linkages, custom CAD/slicing pipelines.
+* **Impact:** Facilitated rapid prototyping of customized drone chassis parts and mounts.
+
+### 6. GreenSteps: Smart Plantation Tracking & Green Marketplace
 * **Overview:** An eco-marketplace and tracking platform combining live-shopping, tree tracking, growth scheduling, and organic product bidding.
 * **Architecture & Stack:** Flutter, Next.js, NestJS, Drizzle ORM, Neon PostgreSQL, Better Auth.
 * **Impact:** Delivered crop life tracking, location-based plant care suggestions, and live bidding tools.
 
-### 4. Wearable AI Vision Assist for the Visually Impaired (NUML)
+### 7. Wearable AI Vision Assist for the Visually Impaired (NUML)
 * **Overview:** An edge-deployed AI navigation device assisting visually impaired individuals through scene narration and real-time obstacle voice guidance.
 * **Architecture & Stack:** OpenCV, TensorFlow Lite, Python, Raspberry Pi, Speech Synthesis.
 * **Impact:** Achieved low-latency object detection and path narration on lower-powered edge processors.
 
-### 5. Government Digital Transformation Systems (NITB)
+### 8. Government Digital Transformation Systems (NITB)
 * **Overview:** Digitized public department procedures and optimized public workflows into accessible web and mobile portals.
 * **Architecture & Stack:** React.js, Node.js, Laravel, REST APIs, PostgreSQL.
 * **Impact:** Standardized data models and accelerated workflow processing across federal citizen portals.
 
-### 6. Multi-Agent AI Workflow Automation System
+### 9. Multi-Agent AI Workflow Automation System
 * **Overview:** A framework orchestrating collaborative AI agents to coordinate and execute multi-step enterprise workflows.
 * **Architecture & Stack:** LangGraph, CrewAI, Python, OpenAI API.
 * **Impact:** Enabled complex task breakdown, research synthesis, and cross-agent coordination.
 
-### 7. Tribal Community Native Language Education (ORIC NUML)
+### 10. Tribal Community Native Language Education (ORIC NUML)
 * **Overview:** AI-driven localized translation and educational platform translating technical skills to local dialects.
 * **Architecture & Stack:** AI Translation, React Native, Node.js, SQLite.
 * **Impact:** Facilitated skills training for tribal regions through localized translation engines.
@@ -117,8 +133,8 @@ Symilars is a full-service software house and digital product agency delivering 
 
 ### **Founder & Lead Architect** | Symilars
 *January 2021 – Present*
-* **Responsibilities:** Managing client relations, project scoping, architecture design, and technical delivery of our software house.
-* **Achievements:** Directed end-to-end software engineering cycles for 10+ global client applications and custom SaaS systems, maintaining robust release environments.
+* **Responsibilities:** Managing client relations, project scoping, architecture design, and technical delivery of our software and hardware house.
+* **Achievements:** Directed end-to-end engineering cycles for 10+ global client applications and custom hardware firmware/prototyping, maintaining robust release environments.
 
 ### **GovTech Systems Engineer** | National Information Technology Board (NITB)
 *January 2024 – June 2025*
