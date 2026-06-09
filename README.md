@@ -32,7 +32,7 @@
 
 ## Executive Profile
 
-I am a builder specializing in high-complexity systems at the intersection of AI orchestration, WebRTC communication, robotics engineering, and multi-tenant cloud architectures. As the Chief Technology Officer (CTO) of Ashtra, I direct the technical division and oversee the development of enterprise-grade SaaS platforms, retail POS solutions, and automated booking networks. My background includes building national GovTech solutions for the National Information Technology Board (NITB) and founding Symilars, a full-service software house, product agency, and hardware development lab.
+I am a builder specializing in high-complexity systems at the intersection of AI orchestration, WebRTC communication, robotics engineering, and multi-tenant cloud architectures. As the Chief Technology Officer (CTO) of Ashtra, I direct the technical division and oversee the development of enterprise-grade SaaS platforms, retail POS solutions, and automated booking networks. My background includes building national GovTech solutions for the National Information Technology Board (NITB) Pakistan and founding Symilars, a full-service software house, product agency, and hardware development lab.
 
 ---
 
@@ -72,20 +72,20 @@ Symilars is a full-service software house, digital product agency, and hardware 
 * **Architecture & Stack:** Python, WebRTC, SIP protocols, Whisper (Speech-to-Text), LLM Pipeline, Bark (Text-to-Speech).
 * **Impact:** Reduced response latency to sub-second levels, enabling natural speech conversation flow.
 
-### 2. GovTech: AI Psychometric Career Counseling Platform (NITB)
+### 2. GovTech: AI Psychometric Career Counseling Platform (NITB Pakistan)
 * **Overview:** A national-scale counseling platform designed to guide children toward personalized academic paths using psychometric evaluation.
 * **Architecture & Stack:** React, FastAPI, PostgreSQL, LangChain, Hugging Face Embeddings.
-* **Impact:** Implemented psychometric profiling algorithms deployed by the National Information Technology Board (Gov of Pakistan).
+* **Impact:** Implemented psychometric profiling algorithms deployed by the National Information Technology Board (NITB) Pakistan.
 
 ### 3. Autonomous Agricultural Drone System (Pakistan)
 * **Overview:** Engineered custom agricultural drones designed for precision crop spraying and autonomous farm survey automation in Pakistan.
 * **Architecture & Stack:** ROS, Arduino, Pixhawk, STM32, C++, FreeRTOS, telemetry modules.
 * **Impact:** Reduced pesticide wastage and optimized topographical surveys for local farmers.
 
-### 4. Multi-Purpose Autonomous Drone Platform (Active R&D)
-* **Overview:** Developing a multi-mission drone with real-time video streaming, obstacle avoidance, and computer vision payload release.
-* **Architecture & Stack:** ROS 2, Raspberry Pi, C++, OpenCV, WebRTC, custom control loops.
-* **Impact:** Enabling custom telemetry streaming and autonomous waypoint navigation on an integrated hardware chassis.
+### 4. Next-Gen Drone OS & Application Platform (Active R&D)
+* **Overview:** Developing a complete new Operating System for drones designed with a modular plugin architecture, extensible application support, cross-controller and system compatibility (Pixhawk, STM32, Raspberry Pi), edge-AI workflows, and telemetry visualization widgets.
+* **Architecture & Stack:** ROS 2, C++, FreeRTOS, OpenCV, WebRTC, custom control loop APIs, plugin-frameworks.
+* **Impact:** Standardizing flight control, sensor integration, and AI deployment across diverse drone hardware and configurations.
 
 ### 5. Custom 3D Printer Design & Construction
 * **Overview:** Designed and built customized high-precision 3D printers for fabrication of specialized structural and mechanical components.
@@ -102,7 +102,7 @@ Symilars is a full-service software house, digital product agency, and hardware 
 * **Architecture & Stack:** OpenCV, TensorFlow Lite, Python, Raspberry Pi, Speech Synthesis.
 * **Impact:** Achieved low-latency object detection and path narration on lower-powered edge processors.
 
-### 8. Government Digital Transformation Systems (NITB)
+### 8. Government Digital Transformation Systems (NITB Pakistan)
 * **Overview:** Digitized public department procedures and optimized public workflows into accessible web and mobile portals.
 * **Architecture & Stack:** React.js, Node.js, Laravel, REST APIs, PostgreSQL.
 * **Impact:** Standardized data models and accelerated workflow processing across federal citizen portals.
@@ -136,7 +136,7 @@ Symilars is a full-service software house, digital product agency, and hardware 
 * **Responsibilities:** Managing client relations, project scoping, architecture design, and technical delivery of our software and hardware house.
 * **Achievements:** Directed end-to-end engineering cycles for 10+ global client applications and custom hardware firmware/prototyping, maintaining robust release environments.
 
-### **GovTech Systems Engineer** | National Information Technology Board (NITB)
+### **GovTech Systems Engineer** | National Information Technology Board (NITB) Pakistan
 *January 2024 – June 2025*
 * **Responsibilities:** Digitized federal citizen portals, paperless workflows, and child psychometric platforms.
 * **Achievements:** Standardized frontend/backend architectures across public departments, improving processing efficiency.
